@@ -4,7 +4,7 @@ a = document.getElementById("Name").value;
 let p = document.getElementById("dis");
 switch(a){
   case "0":
-    alert("name select chy ra poooo");
+    alert("ni name select chy ra poooo");
      break;
   case "1":
     alert("hi Datta");
